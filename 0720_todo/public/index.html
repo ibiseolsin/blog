@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>My Todo</title>
+<link rel="stylesheet" href="/style.css">
+</head>
+<body>
+  <div class="card">
+    <h1>My Todo</h1>
+
+    <form id="task-form">
+      <input type="text" id="title" placeholder="할 일을 입력하세요" required maxlength="200">
+      <input type="date" id="due_date">
+      <button type="submit">추가</button>
+    </form>
+
+    <ul id="task-list"></ul>
+  </div>
+
+  <script src="/app.js"></script>
+</body>
+</html>

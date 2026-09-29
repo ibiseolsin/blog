@@ -1,5 +1,7 @@
 title: dabi's blog
 description: 개발과 일상을 기록하는 블로그
+url: "https://ibiseolsin.github.io"
+baseurl: "/blog"
 theme: minima
 minima:
   skin: classic

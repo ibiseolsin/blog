@@ -2,7 +2,7 @@
 
 Jekyll(minima 테마) 기반 GitHub Pages 블로그.
 
-🔗 https://dabi-hookingpoint.github.io/blog/
+🔗 https://ibiseolsin.github.io/blog/
 
 ## 새 글 작성
 

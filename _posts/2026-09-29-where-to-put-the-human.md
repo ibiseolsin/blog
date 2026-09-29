@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "사람을 어디에 세울 것인가 — 결품 18건으로 재 본 Human-in-the-Loop"
-date: 2026-09-29 18:00:00 +0900
+date: 2026-09-29 12:00:00 +0900
 categories: aiffel agent
 ---
 
